@@ -1,0 +1,4 @@
+.vcs
+.pytest_cache
+plsenv
+.DS_Store

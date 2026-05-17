@@ -316,17 +316,7 @@ Or with your local virtual environment:
 ./plsenv/bin/python -m pytest
 ```
 
-## Current Limitations
-
-- PLS is educational and intentionally small.
-- It does not implement the full Git object model or packfiles.
-- It does not support remotes, clone, fetch, pull, or push.
-- Checkout does not yet perform Git-style safety checks for overwriting local changes.
-- Merge support is experimental and handles only simple cases.
-- Automatic merge commit creation still needs more work.
-- File mode support is minimal.
-
-## Roadmap Ideas
+## Contibution Roadmap Ideas
 
 - Add repository-safe checkout checks
 - Improve merge commit creation and conflict workflows
@@ -334,7 +324,3 @@ Or with your local virtual environment:
 - Add better test coverage for branches, checkout, diff, and merge
 - Add packaging so `pls` can be installed as a system command
 - Add a cleaner index format
-
-## License
-
-No license has been added yet. Add one before publishing if you want others to use, modify, or distribute the project.

@@ -29,7 +29,7 @@ It is not a replacement for Git. It is a readable, hackable implementation of th
 Clone the project:
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/KiraCodes6103/pls-myVCS/
 cd pls
 ```
 
